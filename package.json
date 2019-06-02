@@ -1,0 +1,14 @@
+{
+    "name": "carniques-ausa",
+    "version": "1.0.0",
+    "description": "Carniques Ausa SL website",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Carles Capellas <capellas.carles@gmail.com>",
+    "license": "MTI",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
