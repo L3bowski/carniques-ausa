@@ -168,7 +168,7 @@ ul.nav.navbar-nav li.min-width {
 }
 
 .home-bg {
-	background-image: url('/images/inici.jpg?$modena=carniques-ausa');
+	background-image: url('/carniques-ausa/images/inici.jpg');
 	background-size:100%;
 }
 
